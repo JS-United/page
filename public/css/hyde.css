@@ -76,6 +76,11 @@ html {
 }
 
 /* About section */
+.fas.fa-first-raised {
+	font-size: 6rem;
+  color: slategray;
+  text-align: center;
+}
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
@@ -111,7 +116,7 @@ a.sidebar-nav-item:focus {
   }
 #social-media .fab:hover,
 #social-media .fas:hover {
-  color: blue;
+  color: darkblue;
 }
 
 /* Sticky sidebar
