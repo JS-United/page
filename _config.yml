@@ -23,3 +23,7 @@ socialmedia:
     link: www.twitter.com
     user: 
     fa-icon: 'fab fa-twitter'
+  - title: Discord
+    link: https://discord.gg/V756y55ZNg
+    user: 
+    fa-icon: 'fab fa-discord'
