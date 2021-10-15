@@ -8,5 +8,6 @@ title: About
 </p>
 
 ## JSWU
+
 JS Worker United  
 We're stronger together

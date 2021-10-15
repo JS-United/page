@@ -99,6 +99,21 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+/* Sidebar Social Icons */
+#social-media {
+  text-align: center;
+  margin-bottom: .25rem;
+}
+#social-media .fab,
+#social-media .fas {
+    padding:  10px;
+    font-size: 2rem;
+  }
+#social-media .fab:hover,
+#social-media .fas:hover {
+  color: blue;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
